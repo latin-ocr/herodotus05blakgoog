@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./herodotus05blakgoog_0008.png"; bbox 0 0 2267 3517; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 348 225 1120 338">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 348 225 1120 338">
+     <span class='ocr_line' id='line_1_1' title="bbox 348 225 1120 338; baseline -0.014 -16"><span class='ocrx_word' id='word_1_1' title='bbox 348 282 376 300; x_wconf 66' lang='lat'>„</span> <span class='ocrx_word' id='word_1_2' title='bbox 440 300 478 338; x_wconf 41' lang='grc' dir='ltr'>,ρ</span> <span class='ocrx_word' id='word_1_3' title='bbox 567 225 1120 317; x_wconf 50' lang='lat'>¹&lt;62205&lt;533</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 815 821 1399 1021">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 815 821 1399 1021">
+     <span class='ocr_line' id='line_1_2' title="bbox 815 821 1399 894; baseline 0.003 -14"><span class='ocrx_word' id='word_1_4' title='bbox 815 821 1028 890; x_wconf 83' lang='grc'><strong>1885,</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1075 821 1243 881; x_wconf 82' lang='lat' dir='ltr'><strong>Jan.</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1296 826 1399 894; x_wconf 86' lang='lat'>21,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 983 962 1268 1021; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 983 962 1150 1021; x_wconf 71' lang='lat' dir='ltr'>Gife</span> <span class='ocrx_word' id='word_1_8' title='bbox 1182 966 1268 1021; x_wconf 85' lang='lat' dir='ltr'>of</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 568 1060 1673 1344">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 568 1060 1673 1344">
+     <span class='ocr_line' id='line_1_4' title="bbox 568 1060 1673 1344; baseline -0.001 -187"><span class='ocrx_word' id='word_1_9' title='bbox 568 1099 714 1158; x_wconf 83' lang='lat' dir='ltr'><strong>&#39;I&#39;he</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 751 1101 993 1344; x_wconf 67' lang='lat' dir='ltr'>Heia-s(</span> <span class='ocrx_word' id='word_1_11' title='bbox 1003 1101 1093 1191; x_wconf 74' lang='lat' dir='ltr'>qf</span> <span class='ocrx_word' id='word_1_12' title='bbox 1139 1100 1224 1165; x_wconf 84' lang='grc' dir='ltr'>Ο.</span> <span class='ocrx_word' id='word_1_13' title='bbox 1265 1100 1349 1163; x_wconf 65' lang='lat' dir='ltr'>Q</span> <span class='ocrx_word' id='word_1_14' title='bbox 1393 1060 1673 1162; x_wconf 37' lang='lat' dir='ltr'>Post-effi</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
